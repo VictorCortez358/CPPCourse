@@ -1,5 +1,8 @@
 #include <iostream>
 
+// Go to program that calculete of the valor that takes the next funcion for
+// given values of x and y
+
 using namespace std;
 
 int main()
